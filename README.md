@@ -1,5 +1,7 @@
 # Steam Market Intelligence
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://playtics-analytics.streamlit.app/)
+
 An empirically driven, machine-learning-backed analytical platform designed to help indie developers and AA publishers enter the Steam marketplace with data-backed strategies.
 
 The platform provides a complete **Cyberpunk UI** aesthetic, engineered for high-performance interactivity without browser lockups, seamlessly analyzing over 126,000 commercially released titles from 2010–2025.
