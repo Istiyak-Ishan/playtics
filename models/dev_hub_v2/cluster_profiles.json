@@ -1,0 +1,170 @@
+{
+  "0": {
+    "size": 10232,
+    "median_price": 6.99,
+    "mean_price": 10.047376856919467,
+    "median_playtime_hrs": 3.22,
+    "pct_indie": 0.7559616888193902,
+    "pct_sp": 0.9947224394057858,
+    "pct_mp": 0.040265832681782646,
+    "pct_coop": 0.014073494917904612,
+    "pct_casual": 0.301505082095387,
+    "pct_action": 0.3624902267396403,
+    "pct_rpg": 0.99687255668491,
+    "median_langs": 2.0,
+    "top_genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "avg_dlc": 0.4178068803752932,
+    "segment_name": "Mid-Price Indie"
+  },
+  "1": {
+    "size": 37913,
+    "median_price": 4.99,
+    "mean_price": 7.841036583757551,
+    "median_playtime_hrs": 0.0,
+    "pct_indie": 0.7574974283227389,
+    "pct_sp": 0.9983646770237122,
+    "pct_mp": 0.05549547648563817,
+    "pct_coop": 0.00023738559333210245,
+    "pct_casual": 0.003587160077018437,
+    "pct_action": 0.0025848653496162266,
+    "pct_rpg": 0.0003956426555535041,
+    "median_langs": 2.0,
+    "top_genres": [
+      "Action",
+      "Casual",
+      "Adventure"
+    ],
+    "avg_dlc": 0.22638672750771502,
+    "segment_name": "Budget Indie"
+  },
+  "2": {
+    "size": 6822,
+    "median_price": 9.99,
+    "mean_price": 13.340452946350045,
+    "median_playtime_hrs": 0.0,
+    "pct_indie": 0.017003811199061858,
+    "pct_sp": 0.8249780123131046,
+    "pct_mp": 0.2302843740838464,
+    "pct_coop": 0.0595133391967165,
+    "pct_casual": 0.043389035473468195,
+    "pct_action": 0.025945470536499562,
+    "pct_rpg": 0.030782761653474055,
+    "median_langs": 1.0,
+    "top_genres": [
+      "Simulation",
+      "Strategy",
+      "Other"
+    ],
+    "avg_dlc": 0.531369099970683,
+    "segment_name": "Mid-Price Mixed"
+  },
+  "3": {
+    "size": 14687,
+    "median_price": 4.99,
+    "mean_price": 7.254256825764281,
+    "median_playtime_hrs": 1.83,
+    "pct_indie": 0.7440593722339484,
+    "pct_sp": 0.9952338803023082,
+    "pct_mp": 0.04105671682440253,
+    "pct_coop": 0.0009532239395383672,
+    "pct_casual": 0.8818683189214952,
+    "pct_action": 0.055899775311499963,
+    "pct_rpg": 0.007966228637570641,
+    "median_langs": 1.0,
+    "top_genres": [
+      "Casual",
+      "Adventure",
+      "Indie"
+    ],
+    "avg_dlc": 0.19718118063593654,
+    "segment_name": "Budget Casual"
+  },
+  "4": {
+    "size": 10119,
+    "median_price": 7.99,
+    "mean_price": 10.938036367229962,
+    "median_playtime_hrs": 1.15,
+    "pct_indie": 0.7566953256250618,
+    "pct_sp": 0.7840695720921039,
+    "pct_mp": 0.9975294001383536,
+    "pct_coop": 0.8786441347959284,
+    "pct_casual": 0.23263168297262576,
+    "pct_action": 0.4455973910465461,
+    "pct_rpg": 0.08548275521296571,
+    "median_langs": 2.0,
+    "top_genres": [
+      "Action",
+      "Casual",
+      "Adventure"
+    ],
+    "avg_dlc": 0.6125111176993774,
+    "segment_name": "Mid-Price Indie"
+  },
+  "5": {
+    "size": 8203,
+    "median_price": 4.99,
+    "mean_price": 7.867866634158234,
+    "median_playtime_hrs": 2.88,
+    "pct_indie": 0.8371327563086676,
+    "pct_sp": 0.9854931122759966,
+    "pct_mp": 0.12909911008167743,
+    "pct_coop": 0.027916615872241864,
+    "pct_casual": 0.6125807631354383,
+    "pct_action": 0.26563452395465076,
+    "pct_rpg": 0.033646226990125566,
+    "median_langs": 2.0,
+    "top_genres": [
+      "Casual",
+      "Action",
+      "Indie"
+    ],
+    "avg_dlc": 0.22516152627087652,
+    "segment_name": "Budget Casual"
+  },
+  "6": {
+    "size": 996,
+    "median_price": 1.99,
+    "mean_price": 4.513915662650602,
+    "median_playtime_hrs": 0.0,
+    "pct_indie": 0.7871485943775101,
+    "pct_sp": 0.9909638554216867,
+    "pct_mp": 0.03614457831325301,
+    "pct_coop": 0.03112449799196787,
+    "pct_casual": 0.25100401606425704,
+    "pct_action": 0.14357429718875503,
+    "pct_rpg": 0.01606425702811245,
+    "median_langs": 103.0,
+    "top_genres": [
+      "Casual",
+      "Adventure",
+      "Action"
+    ],
+    "avg_dlc": 0.10642570281124498,
+    "segment_name": "Budget Indie"
+  },
+  "7": {
+    "size": 18736,
+    "median_price": 4.99,
+    "mean_price": 7.831128842869342,
+    "median_playtime_hrs": 1.84,
+    "pct_indie": 0.778768146883006,
+    "pct_sp": 0.9985055508112725,
+    "pct_mp": 0.05833689154568745,
+    "pct_coop": 0.0001601195559350982,
+    "pct_casual": 0.2624893253629377,
+    "pct_action": 0.8372651579846285,
+    "pct_rpg": 0.014570879590093937,
+    "median_langs": 1.0,
+    "top_genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "avg_dlc": 0.21087745516652434,
+    "segment_name": "Budget Indie"
+  }
+}

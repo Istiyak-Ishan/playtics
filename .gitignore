@@ -1,0 +1,29 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Streamlit & Secrets
+.streamlit/
+.env
+secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data & Models
+# Ignore datasets and heavy models unless explicitly added
+data/*.csv
+data/*.parquet
+models/*.pkl
+
+# Generated Assets
+assets/eda_report_charts/

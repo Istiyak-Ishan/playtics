@@ -1,0 +1,171 @@
+{
+  "0": {
+    "segment_name": "Budget Action",
+    "size": 21803,
+    "median_price": 4.99,
+    "pct_indie": 0.7865890015135532,
+    "pct_mp": 0.06934825482731734,
+    "pct_coop": 9.173049580332982e-05,
+    "avg_dlc": 0.32027702609732606,
+    "median_langs": 1.0,
+    "top_genres": [
+      "Action",
+      "Indie"
+    ],
+    "top_tags": [
+      "Action",
+      "Singleplayer",
+      "Indie"
+    ]
+  },
+  "1": {
+    "segment_name": "Budget Action",
+    "size": 30656,
+    "median_price": 4.99,
+    "pct_indie": 0.745759394572025,
+    "pct_mp": 0.07835334029227557,
+    "pct_coop": 0.0002283402922755741,
+    "avg_dlc": 0.2851970250521921,
+    "median_langs": 1.0,
+    "top_genres": [
+      "Action",
+      "Casual"
+    ],
+    "top_tags": [
+      "Indie",
+      "Rpg",
+      "Simulation"
+    ]
+  },
+  "2": {
+    "segment_name": "Mid-Tier Adventure",
+    "size": 21915,
+    "median_price": 6.99,
+    "pct_indie": 0.7288615103810175,
+    "pct_mp": 0.010951403148528405,
+    "pct_coop": 0.00013689253935660506,
+    "avg_dlc": 0.318320784850559,
+    "median_langs": 2.0,
+    "top_genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "top_tags": [
+      "Adventure",
+      "Singleplayer",
+      "Indie"
+    ]
+  },
+  "3": {
+    "segment_name": "Budget Casual",
+    "size": 17696,
+    "median_price": 4.99,
+    "pct_indie": 0.7192020795660036,
+    "pct_mp": 0.10454339963833635,
+    "pct_coop": 0.008872061482820976,
+    "avg_dlc": 0.2763336347197107,
+    "median_langs": 1.0,
+    "top_genres": [
+      "Casual",
+      "Indie"
+    ],
+    "top_tags": [
+      "Singleplayer",
+      "Casual",
+      "Indie"
+    ]
+  },
+  "4": {
+    "segment_name": "Premium Simulation",
+    "size": 10,
+    "median_price": 29.99,
+    "pct_indie": 0.0,
+    "pct_mp": 0.2,
+    "pct_coop": 0.0,
+    "avg_dlc": 761.9,
+    "median_langs": 8.0,
+    "top_genres": [
+      "Simulation",
+      "RPG"
+    ],
+    "top_tags": [
+      "Singleplayer",
+      "Rpg",
+      "Action"
+    ]
+  },
+  "5": {
+    "segment_name": "Mid-Tier Simulation",
+    "size": 2395,
+    "median_price": 9.99,
+    "pct_indie": 0.0,
+    "pct_mp": 0.18455114822546972,
+    "pct_coop": 0.08058455114822546,
+    "avg_dlc": 1.4889352818371608,
+    "median_langs": 2.0,
+    "top_genres": [
+      "Simulation"
+    ],
+    "top_tags": [
+      "Simulation",
+      "Singleplayer",
+      "Strategy"
+    ]
+  },
+  "6": {
+    "segment_name": "Mid-Tier Action",
+    "size": 10503,
+    "median_price": 7.99,
+    "pct_indie": 0.7576882795391793,
+    "pct_mp": 0.9976197276968485,
+    "pct_coop": 0.8886032562125107,
+    "avg_dlc": 0.905169951442445,
+    "median_langs": 2.0,
+    "top_genres": [
+      "Action",
+      "Casual"
+    ],
+    "top_tags": [
+      "Action",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  "7": {
+    "segment_name": "Budget Casual",
+    "size": 995,
+    "median_price": 1.99,
+    "pct_indie": 0.7879396984924623,
+    "pct_mp": 0.036180904522613064,
+    "pct_coop": 0.031155778894472363,
+    "avg_dlc": 0.10653266331658291,
+    "median_langs": 103.0,
+    "top_genres": [
+      "Casual",
+      "Adventure"
+    ],
+    "top_tags": [
+      "Singleplayer",
+      "Indie",
+      "Casual"
+    ]
+  },
+  "8": {
+    "segment_name": "Mid-Tier RPG",
+    "size": 1898,
+    "median_price": 9.99,
+    "pct_indie": 0.0026343519494204425,
+    "pct_mp": 0.07744994731296101,
+    "pct_coop": 0.04162276080084299,
+    "avg_dlc": 0.9857744994731296,
+    "median_langs": 1.0,
+    "top_genres": [
+      "RPG"
+    ],
+    "top_tags": [
+      "Rpg",
+      "Singleplayer",
+      "Strategy"
+    ]
+  }
+}
